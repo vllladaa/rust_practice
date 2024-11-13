@@ -3,6 +3,8 @@ name = "rust_practice"
 version = "0.1.0"
 edition = "2021"
 
+#---------------------ch3
+
 [[bin]]
 name = "variables_ch3_task1"
 path = "src/bin/variables_ch3/task1.rs"
@@ -38,5 +40,115 @@ path = "src/bin/variables_ch3/task8.rs"
 [[bin]]
 name = "variables_ch3_task9"
 path = "src/bin/variables_ch3/task9.rs"
+
+#---------------------ch4
+#char and bool
+
+[[bin]]
+name = "char_and_bool_task1"
+path = "src/bin/basic_types_ch4/char_and_bool/task1.rs"
+
+[[bin]]
+name = "char_and_bool_task2"
+path = "src/bin/basic_types_ch4/char_and_bool/task2.rs"
+
+[[bin]]
+name = "char_and_bool_task3"
+path = "src/bin/basic_types_ch4/char_and_bool/task3.rs"
+
+[[bin]]
+name = "char_and_bool_task4"
+path = "src/bin/basic_types_ch4/char_and_bool/task4.rs"
+
+[[bin]]
+name = "char_and_bool_task5"
+path = "src/bin/basic_types_ch4/char_and_bool/task5.rs"
+
+[[bin]]
+name = "char_and_bool_task6"
+path = "src/bin/basic_types_ch4/char_and_bool/task6.rs"
+
+#---------------------ch4
+#statements
+
+[[bin]]
+name = "statements_task1"
+path = "src/bin/basic_types_ch4/statements/task1.rs"
+
+[[bin]]
+name = "statements_task2"
+path = "src/bin/basic_types_ch4/statements/task2.rs"
+
+[[bin]]
+name = "statements_task3"
+path = "src/bin/basic_types_ch4/statements/task3.rs"
+
+#---------------------ch4
+#fn
+[[bin]]
+name = "fn_task1"
+path = "src/bin/basic_types_ch4/fn/task1.rs"
+
+[[bin]]
+name = "fn_task2"
+path = "src/bin/basic_types_ch4/fn/task2.rs"
+
+[[bin]]
+name = "fn_task3"
+path = "src/bin/basic_types_ch4/fn/task3.rs"
+
+[[bin]]
+name = "fn_task4"
+path = "src/bin/basic_types_ch4/fn/task4.rs"
+
+[[bin]]
+name = "fn_task5"
+path = "src/bin/basic_types_ch4/fn/task5.rs"
+
+#---------------------ch4
+#nums
+[[bin]]
+name = "nums_task1"
+path = "src/bin/basic_types_ch4/nums/task1.rs"
+
+[[bin]]
+name = "nums_task2"
+path = "src/bin/basic_types_ch4/nums/task2.rs"
+
+[[bin]]
+name = "nums_task3"
+path = "src/bin/basic_types_ch4/nums/task3.rs"
+
+[[bin]]
+name = "nums_task4"
+path = "src/bin/basic_types_ch4/nums/task4.rs"
+
+[[bin]]
+name = "nums_task5"
+path = "src/bin/basic_types_ch4/nums/task5.rs"
+
+[[bin]]
+name = "nums_task6"
+path = "src/bin/basic_types_ch4/nums/task6.rs"
+
+[[bin]]
+name = "nums_task7"
+path = "src/bin/basic_types_ch4/nums/task7.rs"
+
+[[bin]]
+name = "nums_task8"
+path = "src/bin/basic_types_ch4/nums/task8.rs"
+
+[[bin]]
+name = "nums_task9"
+path = "src/bin/basic_types_ch4/nums/task9.rs"
+
+[[bin]]
+name = "nums_task10"
+path = "src/bin/basic_types_ch4/nums/task10.rs"
+
+[[bin]]
+name = "nums_task11"
+path = "src/bin/basic_types_ch4/nums/task11.rs"
 
 [dependencies]
