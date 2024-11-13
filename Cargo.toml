@@ -151,4 +151,89 @@ path = "src/bin/basic_types_ch4/nums/task10.rs"
 name = "nums_task11"
 path = "src/bin/basic_types_ch4/nums/task11.rs"
 
+#---------------------ch5
+#borrowing
+[[bin]]
+name = "borrowing_task1"
+path = "src/bin/ownership_and_borrowing_ch5/borrowing/task1.rs"
+
+[[bin]]
+name = "borrowing_task2"
+path = "src/bin/ownership_and_borrowing_ch5/borrowing/task2.rs"
+
+[[bin]]
+name = "borrowing_task3"
+path = "src/bin/ownership_and_borrowing_ch5/borrowing/task3.rs"
+
+[[bin]]
+name = "borrowing_task4"
+path = "src/bin/ownership_and_borrowing_ch5/borrowing/task4.rs"
+
+[[bin]]
+name = "borrowing_task5"
+path = "src/bin/ownership_and_borrowing_ch5/borrowing/task5.rs"
+
+[[bin]]
+name = "borrowing_task6"
+path = "src/bin/ownership_and_borrowing_ch5/borrowing/task6.rs"
+
+[[bin]]
+name = "borrowing_task7"
+path = "src/bin/ownership_and_borrowing_ch5/borrowing/task7.rs"
+
+[[bin]]
+name = "borrowing_task8"
+path = "src/bin/ownership_and_borrowing_ch5/borrowing/task8.rs"
+
+[[bin]]
+name = "borrowing_task9"
+path = "src/bin/ownership_and_borrowing_ch5/borrowing/task9.rs"
+
+[[bin]]
+name = "borrowing_task10"
+path = "src/bin/ownership_and_borrowing_ch5/borrowing/task10.rs"
+
+[[bin]]
+name = "borrowing_task11"
+path = "src/bin/ownership_and_borrowing_ch5/borrowing/task11.rs"
+
+#---------------------ch5
+#ownership
+
+[[bin]]
+name = "ownership_task1"
+path = "src/bin/ownership_and_borrowing_ch5/ownership/task1.rs"
+
+[[bin]]
+name = "ownership_task2"
+path = "src/bin/ownership_and_borrowing_ch5/ownership/task2.rs"
+
+[[bin]]
+name = "ownership_task3"
+path = "src/bin/ownership_and_borrowing_ch5/ownership/task3.rs"
+
+[[bin]]
+name = "ownership_task4"
+path = "src/bin/ownership_and_borrowing_ch5/ownership/task4.rs"
+
+[[bin]]
+name = "ownership_task5"
+path = "src/bin/ownership_and_borrowing_ch5/ownership/task5.rs"
+
+[[bin]]
+name = "ownership_task6"
+path = "src/bin/ownership_and_borrowing_ch5/ownership/task6.rs"
+
+[[bin]]
+name = "ownership_task7"
+path = "src/bin/ownership_and_borrowing_ch5/ownership/task7.rs"
+
+[[bin]]
+name = "ownership_task8"
+path = "src/bin/ownership_and_borrowing_ch5/ownership/task8.rs"
+
+[[bin]]
+name = "ownership_task9"
+path = "src/bin/ownership_and_borrowing_ch5/ownership/task9.rs"
+
 [dependencies]
