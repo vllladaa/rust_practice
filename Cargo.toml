@@ -1,0 +1,42 @@
+[package]
+name = "rust_practice"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "variables_ch3_task1"
+path = "src/bin/variables_ch3/task1.rs"
+
+[[bin]]
+name = "variables_ch3_task2"
+path = "src/bin/variables_ch3/task2.rs"
+
+[[bin]]
+name = "variables_ch3_task3"
+path = "src/bin/variables_ch3/task3.rs"
+
+[[bin]]
+name = "variables_ch3_task4"
+path = "src/bin/variables_ch3/task4.rs"
+
+[[bin]]
+name = "variables_ch3_task5"
+path = "src/bin/variables_ch3/task5.rs"
+
+[[bin]]
+name = "variables_ch3_task6"
+path = "src/bin/variables_ch3/task6.rs"
+
+[[bin]]
+name = "variables_ch3_task7"
+path = "src/bin/variables_ch3/task7.rs"
+
+[[bin]]
+name = "variables_ch3_task8"
+path = "src/bin/variables_ch3/task8.rs"
+
+[[bin]]
+name = "variables_ch3_task9"
+path = "src/bin/variables_ch3/task9.rs"
+
+[dependencies]
